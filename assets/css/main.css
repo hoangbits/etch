@@ -264,4 +264,6 @@ footer#footer {
     font-weight: 300;
     color: #949494;
     margin: 40px 0;
+    bottom: 10px;
+    position: fixed;
 }
